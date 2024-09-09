@@ -35,3 +35,4 @@ Image Height:
 - for 60 days, it should be 96
 
 More information can be found at: [Dacheng's Xiu Website](https://dachxiu.chicagobooth.edu/download/img_demo.html)
+
