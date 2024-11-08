@@ -17,5 +17,5 @@ input_60_return_5/training_data
 input_60_return_5/validation_data
 input_60_return_5/training_data.dat
 input_60_return_5/validation_data.dat 
-input_60_return_5/training_outputs.feather
-input_60_return_5/validation_outputs.feather
+input_60_return_5/training_outputs.csv
+input_60_return_5/validation_outputs.csv
