@@ -22,3 +22,5 @@ input_60_return_5/validation_outputs.csv
 input_20_return_5/chunk_folder
 input_20_return_5/training_data
 input_20_return_5/validation_data
+input_20_return_5/training_data.dat
+input_20_return_5/validation_data.dat
