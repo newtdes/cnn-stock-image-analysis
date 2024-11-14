@@ -34,5 +34,5 @@ class Net(nn.Module):
         x = self.layer3(x)
         x = x.reshape(-1, 46080)
         x = self.fc1(x)
-
+        # no need for softmax function here
         return x
