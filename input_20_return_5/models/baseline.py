@@ -25,6 +25,7 @@ class Net(nn.Module):
             nn.Dropout(p = 0.5),
             nn.Linear(46080, 2),
         )
+        self.softmax = nn.Softmax(dim=1)
     
     # We do not need softmax here since we use CrossEntropyLoss
     def forward(self, x):
