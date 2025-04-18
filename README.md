@@ -37,4 +37,4 @@ Image Height:
 More information can be found at: [Dacheng's Xiu Website](https://dachxiu.chicagobooth.edu/download/img_demo.html)
 
 ## Update
-(20250418) Dataset can be found through this link: [Dataset](https://dachxiu.chicagobooth.edu/download/img_data.zip)
+(20250418) Dataset can be found through this link: [Dataset](https://dachxiu.chicagobooth.edu/download/img_data.zip). Since dataset is available, there is no need to construct from scratch like the above code, at least for 20-day time series for 20-day return.
