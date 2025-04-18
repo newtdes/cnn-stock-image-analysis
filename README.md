@@ -36,3 +36,5 @@ Image Height:
 
 More information can be found at: [Dacheng's Xiu Website](https://dachxiu.chicagobooth.edu/download/img_demo.html)
 
+## Update
+(20250418) Dataset can be found through this link: [Dataset](https://dachxiu.chicagobooth.edu/download/img_data.zip)
